@@ -1,0 +1,8 @@
+{
+  "development": {
+      "host": "test-server"
+  },
+  "production" : {
+      "host": "honban-server"
+  }
+}
